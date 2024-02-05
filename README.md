@@ -1,6 +1,6 @@
 # Ares Programming Language
 
-Welcome to Ares, a high-level programming language designed for simplicity, flexibility, and optimal performance. My name is Prem, and I'm excited to introduce you to the key features of Ares.
+Welcome to Ares, a high-level programming language designed for simplicity, flexibility, and optimal performance. My name is Prem, and I'm excited to introduce you to my new programming language and the key features of Ares.
 
 ## Features
 
