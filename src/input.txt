@@ -1,9 +1,3 @@
-class Doughnut {
-  cook() {
-    print "Fry until golden brown.";
-  }
-}
-
-class BostonCream < Doughnut {}
-
-BostonCream().cook();
+>>Commands to Deploy your Testing
+javac com\language\*.java
+java com.language.Main input.txt
